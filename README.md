@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ayush Kumar Shukla</h1>
 <h3 align="center">A passionate AI/ML-DL Developer(Learner instead)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thehemanuj&label=Profile%20views&color=0e75b6&style=flat" alt="thehemanuj" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thehemanuj&label=Profile%20views&color=26a69a&style=flat" alt="thehemanuj" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github.com/thehemanuj/thehemanuj/blob/main/image.png" alt="thehemanuj" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/kushalhemanuj" target="blank"><img src="https://img.shields.io/twitter/follow/kushalhemanuj?logo=twitter&style=for-the-badge" alt="kushalhemanuj" /></a> </p>
 
-- 🔭 I’m currently working on **Satellite Image Super Resolution using Transformers**
+- 🔭 I’m currently working on **Auto-ML**
 
 - 👨‍💻 All of my projects are available at [github.com/thehemanuj](github.com/thehemanuj)
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **whatareyoudoingayush@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/thehemanuj/resume/blob/main/AyushKumarShukla_ML.pdf](https://github.com/thehemanuj/resume/blob/main/AyushKumarShukla_ML.pdf)
+- 📄 Know about my experiences [https://github.com/thehemanuj/resume/blob/main/AyushKumarShukla_ML.pdf](https://github.com/thehemanuj/resume/blob/main/AyushKumarShukla_Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
