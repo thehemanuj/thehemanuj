@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **whatareyoudoingayush@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/thehemanuj/resume/blob/main/AyushKumarShukla_ML.pdf](https://github.com/thehemanuj/resume/blob/main/AyushKumarShukla_Resume.pdf)
+- 📄 Know about my experiences [Resume](https://github.com/thehemanuj/resume/blob/main/AyushKumarShukla_Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
